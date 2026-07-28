@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Roberttembo
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on building projects
 - 📫 How to reach me roberttemboe@gmail.com,+260953808091
 
